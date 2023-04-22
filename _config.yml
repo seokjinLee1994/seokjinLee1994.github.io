@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SeokJin Blog # 사이트 제목
+description: Seokjin Blog! # 사이트 설명
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+baseurl: "/"
+url: "https://seokjinlee1994.github.io"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Aux links for the upper right navigation
+aux_links: 
+	"GitHub":
+		- "//github.com/seokjin1994"
