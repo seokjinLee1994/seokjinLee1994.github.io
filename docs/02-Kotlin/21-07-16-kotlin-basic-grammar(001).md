@@ -7,7 +7,7 @@ tags: [kotlin basic]
 categories:
   - Kotlin Basic
 toc:  true
-parent: Android
+parent: Kotlin
 ---
 # kotlin의 기본 문법 정리(001) var과 val
 
