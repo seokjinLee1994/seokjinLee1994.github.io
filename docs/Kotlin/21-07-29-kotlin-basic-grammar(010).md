@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 문자열과 정규식 다루기"
 date: 2021-07-29 +0800
 last_modified_at: 2021-07-29 +0800

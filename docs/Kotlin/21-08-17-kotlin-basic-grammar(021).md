@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 모든 클래스가 정의해야 하는 메소드"
 date: 2021-08-17 +0800
 last_modified_at: 2021-08-17 +0800

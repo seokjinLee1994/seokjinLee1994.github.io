@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 객체 선언"
 date: 2021-08-23 +0800
 last_modified_at: 2022-02-14 +0800

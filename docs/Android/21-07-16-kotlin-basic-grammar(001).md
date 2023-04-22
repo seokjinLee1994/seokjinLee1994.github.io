@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 문법 var / val"
 date: 2021-07-16 +0800
 last_modified_at: 2021-07-16 +0800

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 게터 세터 / 접근자 가시성 변경"
 date: 2021-08-16 +0800
 last_modified_at: 2021-08-16 +0800

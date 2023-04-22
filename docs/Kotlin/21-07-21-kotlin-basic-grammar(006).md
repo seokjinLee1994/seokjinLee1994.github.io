@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 예외 처리"
 date: 2021-07-21 +0800
 last_modified_at: 2021-07-21 +0800

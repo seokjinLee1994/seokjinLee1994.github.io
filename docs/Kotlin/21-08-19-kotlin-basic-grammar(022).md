@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 데이터 클래스"
 date: 2021-08-19 +0800
 last_modified_at: 2021-08-19 +0800

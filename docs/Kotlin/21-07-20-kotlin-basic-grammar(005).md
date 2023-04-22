@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 대상을 이터레이션(while, for)"
 date: 2021-07-20 +0800
 last_modified_at: 2021-07-20 +0800

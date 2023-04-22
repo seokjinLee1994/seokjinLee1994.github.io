@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 인터페이스에 선언된 프로퍼티 구현"
 date: 2021-08-16 +0800
 last_modified_at: 2021-08-16 +0800

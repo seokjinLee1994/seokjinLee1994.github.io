@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 부 생성자"
 date: 2021-08-15 +0800
 last_modified_at: 2021-08-15 +0800

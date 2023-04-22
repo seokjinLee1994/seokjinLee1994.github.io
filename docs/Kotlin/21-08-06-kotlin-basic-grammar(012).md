@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 코틀린 인터페이스"
 date: 2021-08-06 +0800
 last_modified_at: 2021-08-06 +0800

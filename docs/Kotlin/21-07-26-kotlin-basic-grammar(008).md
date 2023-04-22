@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 확장함수와 확장 프로퍼티"
 date: 2021-07-26 +0800
 last_modified_at: 2021-07-26 +0800

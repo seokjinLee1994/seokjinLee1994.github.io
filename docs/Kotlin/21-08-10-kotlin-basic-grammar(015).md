@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 내부 클래스와 중첩된 클래스 "
 date: 2021-08-10 +0800
 last_modified_at: 2021-08-10 +0800

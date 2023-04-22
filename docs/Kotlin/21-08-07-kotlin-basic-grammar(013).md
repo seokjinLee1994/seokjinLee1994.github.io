@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 open, final, abstract 변경자: 기본적으로 final"
 date: 2021-08-07 +0800
 last_modified_at: 2021-08-07 +0800

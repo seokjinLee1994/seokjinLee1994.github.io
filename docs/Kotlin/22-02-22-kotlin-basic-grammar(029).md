@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 동반 객체를 일반 객체처럼 사용"
 date: 2022-02-22 +0800
 last_modified_at: 2022-02-22 +0800

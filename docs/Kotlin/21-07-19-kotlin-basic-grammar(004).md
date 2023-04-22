@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 열거형 클래스(enum class)와 when"
 date: 2021-07-19 +0800
 last_modified_at: 2021-07-19 +0800

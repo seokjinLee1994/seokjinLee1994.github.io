@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 컬렉션 처리: 가변 길이 인자, 중위 함수 호출, 라이브러리 지원"
 date: 2021-07-28 +0800
 last_modified_at: 2021-07-28 +0800

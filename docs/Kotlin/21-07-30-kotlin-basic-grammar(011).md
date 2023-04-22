@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "[Kotlin] 코틀린 기초 코드 다듬기: 로컬 함수와 확장"
 date: 2021-07-30 +0800
 last_modified_at: 2021-07-30 +0800
