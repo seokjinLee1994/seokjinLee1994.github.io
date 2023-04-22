@@ -8,3 +8,27 @@ url: "https://seokjinlee1994.github.io"
 # Aux links for the upper right navigation
 aux_links: 
   GitHub: https://github.com/seokjinlee1994
+
+# Color scheme currently only supports "drak", "light"/nil (default), or a custom scheme that you define
+color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+# 맨 위로 활성화
+back_to_top: true
+back_to_top_text: "Back to top"
