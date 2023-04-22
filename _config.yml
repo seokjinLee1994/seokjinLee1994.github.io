@@ -29,6 +29,6 @@ callouts:
     title: Warning
     color: red
 
-# 맨 위로 활성화
+# Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
