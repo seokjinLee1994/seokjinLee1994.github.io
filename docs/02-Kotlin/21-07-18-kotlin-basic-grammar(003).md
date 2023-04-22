@@ -7,6 +7,7 @@ tags: [kotlin basic]
 categories:
   - Kotlin Basic
 toc:  true
+parent: Kotlin
 ---
 
 # kotlin의 기본 문법 정리(003) 클래스(class)와 프로퍼티(property)

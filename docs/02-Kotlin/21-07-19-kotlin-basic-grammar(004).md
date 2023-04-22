@@ -7,6 +7,7 @@ tags: [kotlin basic]
 categories:
   - Kotlin Basic
 toc:  true
+parent: Kotlin
 ---
 
 # kotlin의 기본 문법 정리(004) 열거형 클래스(enum class)와 when
