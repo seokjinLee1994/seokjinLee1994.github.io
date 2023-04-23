@@ -40,4 +40,4 @@ View 클래스에서 상속받은 메소드로, UI 스레드에서 실행되는 
 
 ---
 
-https://stackoverflow.com/questions/19316729/android-viewpager-setcurrentitem-not-working-after-onresume
+<https://stackoverflow.com/questions/19316729/android-viewpager-setcurrentitem-not-working-after-onresume>
