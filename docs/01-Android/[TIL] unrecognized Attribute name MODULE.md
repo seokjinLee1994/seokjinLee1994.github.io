@@ -12,10 +12,8 @@ parent: Android
 
 # [TIL] unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTable$NameImpl)
 
-다중 선택: Android
-
 {: . warning}
-> [error] 
+[error log] 
 An exception has occurred in the compiler (1.8.0_345)…..
 java.lang.AssertionError: annotationType(): unrecognized Attribute name MODULE
 
