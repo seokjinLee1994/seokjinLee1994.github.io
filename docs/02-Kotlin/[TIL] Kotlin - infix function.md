@@ -1,4 +1,16 @@
-# [TIL] Kotlin - infix
+---
+layout: default
+title: "[TIL] Kotlin - infix function"
+date: 2023-05-12 +0800
+last_modified_at: 2023-05-12 +0800
+tags: [TIL Kotlin]
+categories:
+  - TIL
+toc:  true
+parent: Kotlin
+---
+
+# [TIL] Kotlin - infix function
 
 다중 선택: Kotlin
 
