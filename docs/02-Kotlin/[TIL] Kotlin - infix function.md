@@ -41,19 +41,19 @@ val result = "Hello" add "World" // 결과 : HelloWorld
 
 ```kotlin
 class KeyboardSound {
-		var sound = ""
-		infix fun add(receiver: String) {
-				this.sound += receiver
-		}
+	var sound = ""
+	infix fun add(receiver: String) {
+			this.sound += receiver
+	}
 }
 
 fun main() {
-		val keyboardSound = KeyboardSound()
+	val keyboardSound = KeyboardSound()
 		
-		keyboardSound add "도각"
-		keyboardSound add "도각"
+	keyboardSound add "도각"
+	keyboardSound add "도각"
 
-		print(keyboardSound.sound) // 결과 : 도각도각
+	print(keyboardSound.sound) // 결과 : 도각도각
 }
 ```
 
