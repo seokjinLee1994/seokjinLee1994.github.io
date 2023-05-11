@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "[TIL] ViewPager2의 setCurrentItem()이 동작하지 않을 때"
+title: "[TIL] Android - ViewPager2의 setCurrentItem()이 동작하지 않을 때"
 date: 2023-04-23 +0800
 last_modified_at: 2023-04-23 +0800
 tags: [TIL Android]

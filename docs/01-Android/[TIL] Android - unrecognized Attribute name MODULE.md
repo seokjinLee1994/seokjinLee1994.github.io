@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "[TIL] unrecognized Attribute name MODULE (class com.sun.tools.javac.util.UnsharedNameTable$NameImpl)"
+title: "[TIL] Android - unrecognized Attribute name MODULE"
 date: 2023-04-28 +0800
 last_modified_at: 2023-04-28 +0800
 tags: [TIL Android]
