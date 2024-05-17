@@ -33,13 +33,17 @@ parent: Kotlin
 
 
 **Routine이란?**<br>
-- 하나의 Task, Fuction을 말한다.<br>
-- Main Routine과 Sub Routine으로 나뉜다. Main Routine이 Sub Routine을 호출하는 방식을 취한다.<br>
+- 하나의 Task, Fuction을 말한다.
+- Main Routine과 Sub Routine으로 나뉜다. Main Routine이 Sub Routine을 호출하는 방식을 취한다.
 - 코루틴의 경우 Main, Sub 개념을 구분하지 않는다. 모든 Routine들이 서로를 호출할 수 있다.
-- 진입과 탈툴이 자유롭다. Sub Routine은 return을 만나야만 탈출한다.<br>
+- 진입과 탈출이 자유롭다. Sub Routine은 return을 만나야만 탈출한다.
     - 닫는 괄호를 만나면 해당 Sub Routine을 빠져 나온다.
     - return문을 만나면 Sub Routine을 호출했던 부분으로 탈출한다.
+
+<br>
+
 ---
+
 ## **Coroutine의 기본 개념**<br>
 Coroutine을 이해하기 위해서는 3개의 기본 개념을 알아햐 한다.<br><br>
 1. **Coroutine Scope**: Coroutine이 실행되는 영역(MainScope, GlobalScope, CoroutineScope 등)
