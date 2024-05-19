@@ -66,6 +66,7 @@ Client로 부터 Authorization URL로 이동된 Resource Owner는 제공된 로�
 
 ### **5~6. Authorization Code 발급, Redirect URI로 리다이렉트**
 Authorization URL에서 인증이 성공했다면, Authorization Server는 기존에 설정한 Redirect URI에 **Authorization Code**를 포함하여 사용자를 리다이렉션 시킨다.<br>
+
 {: .note }
 > **Authorization Code** <br><br>
 리소스 접근을 위한 Access Token을 획득하기 위해 사용하는 임시 코드. 수명이 매우 짧다.
