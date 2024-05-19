@@ -75,6 +75,7 @@ Authorization URL에서 인증이 성공했다면, Authorization Server는 기�
 ### **7~8. Authorization Code와 Access Token 발급**
 Client는 다시 Authorization Server에 Authorization Code를 전달, Access Token을 발급 받는다.<br>
 Client는 자신이 발급받은 Resource Owner의 Access Token을 DB에 저장하고, 이후 Resource Server에서 Resource Owner의 리소스에 접근하기 위해 Access Token을 사용한다.<br>
+<br>
 {: .warning }
 > Access Token은 유출되지 않도록 관리해주어야 한다.
 
