@@ -133,10 +133,10 @@ Authotization & Resource Server 입장에서 우리의 서비스는 Client에 �
 ---
 
 참고<br>
-https://hudi.blog/oauth-2.0/
+[OAuth2.0 개념과 동작원리](https://hudi.blog/oauth-2.0/)
 <br>
-https://velog.io/@choidongkuen/OAuth02-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C
+[OAuth2.0이란 무엇일까?](https://velog.io/@choidongkuen/OAuth02-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 <br>
-https://blog.naver.com/mds_datasecurity/222182943542
+[OAuth2.0 동작 방식의 이해](https://blog.naver.com/mds_datasecurity/222182943542)
 <br>
-https://guide.ncloud-docs.com/docs/b2bpls-oauth2
+[OAuth2.0 개념 및 연동](https://guide.ncloud-docs.com/docs/b2bpls-oauth2)
