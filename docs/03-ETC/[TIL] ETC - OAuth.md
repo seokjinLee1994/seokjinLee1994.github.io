@@ -41,7 +41,7 @@ OAuth2.0은 4가자의 역할로 구성되어 있다.<br>
 ---
 
 ## **OAuth2.0 매커니즘**<br><br>
-![OAuth2.0 매커니즘](../../img/OAuth2.0_%20mechanism.png)
+![OAuth2.0 매커니즘](../../img/OAuth/OAuth2.0_%20mechanism.png)
 
 {: .note }
 > **Client** <br><br>
