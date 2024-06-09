@@ -14,7 +14,7 @@ parent: Android
 ## **Jetpack이 뭔가요...?**<br><br>
 
 ![Jetpack이 뭘까?](../../img/Jetpack/Jetpack%EC%9D%B4%EB%9E%80.png)
-https://developer.android.com/jetpack?hl=ko
+<https://developer.android.com/jetpack?hl=ko>
 
 위는 안드로이드 개발자 페이지에서 소개하는 Jetpack에 대한 설명이다.<br>
 
