@@ -3,12 +3,15 @@
   <head>
   </head>
   <body>
-    <form name="form" id="form" action="https://nice.checkplus.co.kr/CheckPlusSafeModel/service.cb" method="post">
+    <form name="form" id="form" action="https://nice.checkplus.co.kr/CheckPlusSafeModel/service.cb" method="get">
       <input type="hidden" id="m" name="m" value="service" />
       <input type="hidden" id="token_version_id" name="token_version_id" value="" />
       <input type="hidden" id="enc_data" name="enc_data" />
-      <input type="hidden" id="integrity_value" name="integrity_value" value="" />
+      <input type="hidden" id="integrity_value" name="integrity_value" />
     </form>
+
+
+    
     <script type="text/javascript">
       this.document.getElementById("form").submit();
     </script>
